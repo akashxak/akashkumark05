@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashkumark05
+- 👋 Hi, I’m @akashxak
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...c
 - 💞️ I’m looking to collaborate on ...
